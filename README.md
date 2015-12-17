@@ -1,5 +1,5 @@
 # thinkphp_cms
-这事用thinkphp搭建的一个商品信息管理系统
+这是用thinkphp搭建的一个商品信息管理系统
 	thinkphp版本为3.1.3
 	开发环境用wamp和xampp测试都成功
 	
