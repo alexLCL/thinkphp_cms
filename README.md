@@ -19,7 +19,7 @@
 
 	项目中包含了mysql的备份文件，直接还原即可。
 	
-		文件位置：thinkphp_cms/file/demo.sql.zip    还原的数据库名字为demo
+		文件位置：thinkphp_cms/files/demo.sql.zip    还原的数据库名字为demo
 		
 		同目录下的“数据字典.xlsx"文件是创建数据库时的记录，也可以对照着自己创建数据库
 		
