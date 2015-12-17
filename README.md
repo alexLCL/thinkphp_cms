@@ -11,6 +11,10 @@
 
 	这个就不介绍了
 	
+	*用户名：admin 
+	
+	*密码  ：admin
+	
 2.配置数据库
 
 	项目中包含了mysql的备份文件，直接还原即可。
@@ -20,11 +24,6 @@
 		同目录下的“数据字典.xlsx"文件是创建数据库时的记录，也可以对照着自己创建数据库
 		
 3.数据库登录密码
-
-	*用户名：admin 
-	
-	*密码  ：admin
-	
 
 	如果出现"Access denied for user 'root'@'localhost' (using password: YES)"的问题，在源码中修改数据库的密码
 	
