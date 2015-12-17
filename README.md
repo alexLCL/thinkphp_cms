@@ -20,12 +20,12 @@
 		同目录下的“数据字典.xlsx"文件是创建数据库时的记录，也可以对照着自己创建数据库
 		
 3.数据库登录密码
-<<<<<<< HEAD
-	*用户名：admin 
-	*密码  ：admin
-=======
 
->>>>>>> 586d9f1707bd544b3a7d201bf4ef69711144a0a0
+	*用户名：admin 
+	
+	*密码  ：admin
+	
+
 	如果出现"Access denied for user 'root'@'localhost' (using password: YES)"的问题，在源码中修改数据库的密码
 	
 		文件位置：thinkphp_cms/admin/Conf/config.php
